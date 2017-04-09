@@ -43,6 +43,7 @@ values."
      emacs-lisp
      git
      ;; markdown
+     ;; fake
      org
      ;; (shell :variables
      ;;        shell-default-height 30
