@@ -77,6 +77,7 @@ alias ..='cd .. && ls -a'
 alias gm='git commit -m'
 alias ga='git add -A'
 alias h='htop'
+alias pm='sudo pm-suspend'
 #ls after cd
 c() { cd "$@" && ls; }
 #test
